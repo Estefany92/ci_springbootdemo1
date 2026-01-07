@@ -1,5 +1,6 @@
 name: CI Spring Boot
 
+
 on:
   push:
     branches: [ main ]
